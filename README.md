@@ -38,14 +38,14 @@ Linguagens e tecnologias: `C`, `Java`, `Figma`, `Pacote Office`
 
 <br>
 
-[<img align="left" height="94px" alt="UNIP - Universidade Paulista" src="https://github.com/MikhaelNbg12/MikhaelNbg12/assets/129698581/c9a1974a-f95f-4aaf-81fa-8843b38554fd"/>](https://www.unip.br)
+[<img align="left" height="55px" alt="UNIP - Universidade Paulista" src="https://www.unip.br/assets/img/logo/logo-unip.svg"/>](https://www.unip.br)
 **Curso Superior de Tecnologia (CST), Negócios Internacionais e Comércio Exterior** \
 [**UNIP - Universidade Paulista**](https://www.unip.br) • jan/2020 a dez/2021 
 
 <br>
 <br>
 
-[<img align="left" height="94px" alt="Escola Técnica Dona Escolástica Rosa" src="https://github.com/MikhaelNbg12/MikhaelNbg12/assets/129698581/43b7d190-4ba4-4f95-93b9-ca1c555e35ed"/>](https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/)
+[<img align="left" height="94px" alt="Escola Técnica Dona Escolástica Rosa" src="https://github.com/MikhaelNbg12/MikhaelNbg12/assets/129698581/3f32ea23-c1b8-4266-8a0b-26f638ae06c5"/>](https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/)
 **Curso Técnico de Logística** \
 [**Escola Técnica Dona Escolástica Rosa**](https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/) • jan/2018 a jul/2019 
 
