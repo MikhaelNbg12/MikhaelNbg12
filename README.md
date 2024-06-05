@@ -7,7 +7,6 @@
 <br>
 • 📚 [Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara](https://fatecrl.edu.br/)
 <br>
-• 🌐 Portfólio pessoal: https://github.com/MikhaelNbg12
 
 ##
 
