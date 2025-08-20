@@ -21,9 +21,9 @@
 
 ### Experiência Profissional 🧑🏻‍💼💼
 [<img align="left" width="94px" alt="MSC Mediterranean Shipping Company" src="https://github.com/MikhaelNbg12/MikhaelNbg12/assets/129698581/c72f56aa-fa75-4781-bf4e-f51a3bb6d464"/>](https://www.msc.com)
-**Assistente de Sistemas de Informação** \
+**Analista de Customer Service Reefer - Expo** \
 [**MSC Mediterranean Shipping Company**](https://www.msc.com) • fev/2022 \
-Competências: `Atuo no setor Shared Service Center realizando auditoria de B/Ls para as MSCs do Brasil e toda Europa, de acordo com as especificidades de cada cliente e de cada porto, buscando um melhor controle de qualidade para evitar erros de procedimento e gastos/multas indesejadas por nossos clientes.`
+Competências: `Atuo no atendimento ao cliente, oferecendo suporte desde a solicitação até a confirmação do booking, garantindo a precisão das informações nos sistemas internos. Tenho experiência na validação e efetivação de reservas no sistema MSC Link, além de realizar transferências de carga e alterações de destino (COD) conforme necessidade. Mantenho contato com escritórios da MSC no Brasil e no exterior para resolução de pendências, elaboro relatórios e asseguro comunicação clara e constante com os clientes da área.`
 
 <br>
 
