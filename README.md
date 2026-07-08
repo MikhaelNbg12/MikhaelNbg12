@@ -21,9 +21,9 @@
 
 ### Experiência Profissional 🧑🏻‍💼💼
 [<img align="left" width="94px" alt="MSC Mediterranean Shipping Company" src="https://github.com/MikhaelNbg12/MikhaelNbg12/assets/129698581/c72f56aa-fa75-4781-bf4e-f51a3bb6d464"/>](https://www.msc.com)
-**Analista de Customer Service Reefer - Expo** \
+**Analista de Pricing & Capacity Reefer** \
 [**MSC Mediterranean Shipping Company**](https://www.msc.com) • fev/2022 \
-Competências: `Atuo no atendimento ao cliente, oferecendo suporte desde a solicitação até a confirmação do booking, garantindo a precisão das informações nos sistemas internos. Tenho experiência na validação e efetivação de reservas no sistema MSC Link, além de realizar transferências de carga e alterações de destino (COD) conforme necessidade. Mantenho contato com escritórios da MSC no Brasil e no exterior para resolução de pendências, elaboro relatórios e asseguro comunicação clara e constante com os clientes da área.`
+Competências: `Atuo como Pricing & Capacity Reefer Analyst, sendo responsável pela elaboração de cotações de fretes de exportação reefer, análise de estatísticas de mercado (preços e volumes embarcados) e controle financeiro de acordos e contratos com clientes. Realizo a verificação do cumprimento do free time acordado, aprovo embarques sancionados e faço a interface entre o time comercial e os terminais para alinhamento de condições especiais de clientes.`
 
 <br>
 
