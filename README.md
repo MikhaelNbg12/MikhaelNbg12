@@ -10,8 +10,6 @@ Analista de Pricing & Capacity na indústria de shipping, estudante de Análise 
 <br>
 • 📚 [Faculdade de Tecnologia do Estado de São Paulo - Campus Rubens Lara](https://fatecrl.edu.br/)
 
-<br>
-
 ---
 
 ### Fale comigo 📲
@@ -22,15 +20,11 @@ Analista de Pricing & Capacity na indústria de shipping, estudante de Análise 
 <a href="https://www.instagram.com/m.nobrega_/#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/mikhaelzin12"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-<br>
-
 ---
 
 ### Skills 🛠️
 
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
-
-<br>
 
 ---
 
