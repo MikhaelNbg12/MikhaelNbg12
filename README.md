@@ -54,7 +54,9 @@ Linguagens e tecnologias: `C`, `Java`, `Figma`, `Pacote Office`
 ##
 
 ### Estatísticas
-<div align-items="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MikhaelNbg12&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=25f776&icon_color=25b1f7&text_color=c9d1d9&bg_color=0d1117&hide_title=true" alt="Mikhael Nóbrega GitHub Stats"/>
-<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MikhaelNbg12&layout=compact&hide_border=true&title_color=25f776&text_color=c9d1d9&bg_color=0d1117"/>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MikhaelNbg12&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=25f776&icon_color=25b1f7&text_color=c9d1d9&bg_color=0d1117&hide_title=true" alt="Mikhael Nóbrega GitHub Stats"/>
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelNbg12&layout=compact&hide_border=true&title_color=25f776&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </div>
