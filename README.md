@@ -41,8 +41,6 @@ Analista de Pricing & Capacity na indústria de shipping, estudante de Análise 
 - Verificação de cumprimento do free time acordado e aprovação de embarques sancionados
 - Interface entre o time comercial e os terminais para condições especiais de clientes
 
-<br clear="left">
-
 ---
 
 ### Experiência Acadêmica 📚
@@ -66,8 +64,6 @@ Linguagens e tecnologias: `C` `Java` `Figma` `Pacote Office`
 
 **Curso Técnico de Logística** \
 [**Escola Técnica Dona Escolástica Rosa**](https://www.cps.sp.gov.br/etecs/etec-dona-escolastica-rosa/) • jan/2018 a jul/2019
-
-<br clear="left">
 
 ---
 
