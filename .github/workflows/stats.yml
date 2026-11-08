@@ -1,0 +1,38 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # todo dia às 03:00 (horário de Brasília)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/scripts/stats.mjs", ".github/workflows/stats.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Gerar cards
+        env:
+          # STATS_TOKEN (PAT com leitura dos repositórios) inclui os privados;
+          # sem ele, o GITHUB_TOKEN conta apenas os públicos.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node .github/scripts/stats.mjs
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add stats
+          git diff --cached --quiet || (git commit -m "stats: atualiza cards do perfil" && git push)

@@ -70,16 +70,8 @@ Linguagens e tecnologias: `C` `Java` `Figma` `Pacote Office`
 ### Estatísticas 📊
 
 <div align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=MikhaelNbg12&show_icons=true&hide_border=true&title_color=25f776&icon_color=25f776&text_color=c9d1d9&bg_color=0d1117"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelNbg12&layout=compact&langs_count=8&hide_border=true&title_color=25f776&text_color=c9d1d9&bg_color=0d1117"
-    alt="Linguagens mais utilizadas"
-  />
+  <img width="48%" src="./stats/overview.svg" alt="Estatísticas do GitHub" />
+  <img width="48%" src="./stats/top-langs.svg" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
