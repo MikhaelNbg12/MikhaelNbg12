@@ -2,7 +2,7 @@
 // Conta repositórios públicos e privados (se o token tiver acesso), ignorando forks.
 import { mkdir, writeFile } from "node:fs/promises";
 
-const TOKEN = process.env.STATS_TOKEN || process.env.GITHUB_TOKEN;
+const TOKEN = process.env.STATS_TOKEN;
 const LOGIN = process.env.STATS_USER || "MikhaelNbg12";
 const LANGS_COUNT = Number(process.env.LANGS_COUNT || 8);
 const EXCLUDE_LANGS = (process.env.EXCLUDE_LANGS || "").split(",").map((s) => s.trim().toLowerCase()).filter(Boolean);
@@ -10,7 +10,7 @@ const EXCLUDE_REPOS = (process.env.EXCLUDE_REPOS || "").split(",").map((s) => s.
 
 const C = { bg: "#0d1117", title: "#25f776", text: "#c9d1d9", muted: "#8b949e", track: "#21262d" };
 
-if (!TOKEN) throw new Error("Defina STATS_TOKEN ou GITHUB_TOKEN.");
+if (!TOKEN) throw new Error("Defina o secret STATS_TOKEN (PAT com leitura dos repositórios), senão os privados não entram.");
 
 async function gql(query, variables = {}) {
   const res = await fetch("https://api.github.com/graphql", {

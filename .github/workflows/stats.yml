@@ -25,10 +25,8 @@ jobs:
           node-version: 20
       - name: Gerar cards
         env:
-          # STATS_TOKEN (PAT com leitura dos repositórios) inclui os privados;
-          # sem ele, o GITHUB_TOKEN conta apenas os públicos.
+          # PAT com leitura de todos os seus repositórios (inclui privados)
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
-          GITHUB_TOKEN: ${{ github.token }}
         run: node .github/scripts/stats.mjs
       - name: Commit
         run: |
